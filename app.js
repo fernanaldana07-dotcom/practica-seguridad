@@ -1,1 +1,3 @@
-const STRIPE_KEY = "sk_live_51Mz1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+require('dotenv').config();
+const STRIPE_KEY = process.env.STRIPE_KEY;
+console.log("Aplicación iniciada de forma segura");
