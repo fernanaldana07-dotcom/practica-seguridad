@@ -1,2 +1,1 @@
-const API_KEY = "ghp_1234567890abcdefghijklmnopqrstuvwxyz";
-const NEW_SECRET = "ghp_9999999999abcdefghijklmnopqrstuvwxyz";
+const API_KEY = "ghp_000000000000000000000000000000000000";
